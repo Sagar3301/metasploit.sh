@@ -1,5 +1,5 @@
-# metasploit PROJECT BY sagar3301
-## this use in your Termux App With an educational purpose 
+# METASPLOIT Project By SAGAR3301
+## use this project in your Termux App With an educational purpose 
 
 ### [+] Installation & Usage
 ```
@@ -66,14 +66,11 @@ bash msfconsole
 
 bundle install
 
-try again ./msfconsole
+###try again
+
+./msfconsole
 ```
     
-## [+] Find Me on :
-#### subscribe my channel 
-#### Join cahnnel and Show your love with share
-##### Youtube channel link:https://youtube.com/@avengerhacksteachaht3605
-
 
 ## [+] Find Me on :
 #### subscribe my channel 
